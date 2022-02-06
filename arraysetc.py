@@ -56,4 +56,4 @@ for i in range(n):
        item_order[subject_name]=item_order[subject_name]+item_price
            
 for i in item_order:
-   print(i+str(item_order[i]))3
+   print(i+str(item_order[i]))
