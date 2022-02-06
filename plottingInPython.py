@@ -21,6 +21,7 @@ for row in csvreader:
    
     newData.append(row)
 file.close()
+
 #print(newData)
 #arr = numpy.array(lst)
 dataSample=np.array(newData)
